@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laiiiiba
 - 👀 I’m interested in Learning new stuff  
-- 🌱 I’m currently learning unity game development and Data Structure
+- 🌱 I’m currently learning AI Ethics
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me laibacat.00@gmail.com 
 
