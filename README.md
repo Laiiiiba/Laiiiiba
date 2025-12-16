@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laiiiiba
+- 👋 Hi, I’m Laiba Waseem
 - 👀 I’m interested in Learning new stuff  
 - 🌱 I’m currently learning AI Ethics
 - 💞️ I’m looking to collaborate on open source
