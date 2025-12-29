@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new stuff  
 - 🌱 I’m currently learning AI Ethics
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me laibacat.00@gmail.com 
+- 📫 How to reach me laiba.wwaseem@gmail.com 
 
 <!---
 Laiiiiba/Laiiiiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
